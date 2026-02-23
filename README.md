@@ -1,6 +1,6 @@
 # Observability Stack
 
-> A hands-on DevOps portfolio project demonstrating monitoring and observability with Prometheus, Grafana, and Alertmanager. Built for learning and GSoC preparation.
+> A hands-on DevOps portfolio project demonstrating monitoring and observability with Prometheus, Grafana, and Alertmanager.
 
 Prometheus + Grafana + Alertmanager + sample app with custom metrics.
 
